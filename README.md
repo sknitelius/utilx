@@ -14,7 +14,8 @@ Does.string(foo).contain("o");
 
 StringUtils.join(new String[]{"a","b","c"}, ", ");
 Join.strings("a", "b", "c").withSeperator(", ");
-Note:
+
+#Note:
 This approach may have adverse effects on application performance, as the extra object allocation caused by UtilX may result in more frequent Minor GC.
 
 Homepage: http://www.knitelius.com/utilx/
