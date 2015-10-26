@@ -5,7 +5,7 @@ UtilX is a prove of concept fluent Apache-Commons utility wrapper.
 The fluent API allows for clearer more concise syntax, as opposed to the standard static method interactions.
 
 Examples:
-```
+```java
 StringUtils.isEmpty(foo);
 Is.string(foo).empty();
 
