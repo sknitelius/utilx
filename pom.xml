@@ -14,6 +14,11 @@
     </license>
   </licenses>
 
+  <name>UtilX</name>
+  <description>A fluent Utility API.</description>
+  <url>http://www.knitelius.com/utilx</url>
+  <inceptionYear>2015</inceptionYear>
+
   <developers>
     <developer>
       <id>sknitelius</id>
