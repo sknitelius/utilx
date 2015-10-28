@@ -24,4 +24,6 @@ Join.strings("a", "b", "c").withSeperator(", ");
 #Note:
 This approach may have adverse effects on application performance, as the extra object allocation caused by UtilX may result in more frequent Minor GC.
 
+![Latest build](https://codeship.com/projects/facab620-5faa-0133-5369-4e587625a674/status?branch=master)
+
 Homepage: http://www.knitelius.com/utilx/
